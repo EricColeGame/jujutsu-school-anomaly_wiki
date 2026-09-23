@@ -1,0 +1,14 @@
+{
+  "name": "jujutsu-school-anomaly-wiki",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "jujutsu-school-anomaly.wiki",
+      "custom_domain": true
+    }
+  ]
+}
