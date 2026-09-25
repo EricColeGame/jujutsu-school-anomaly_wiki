@@ -13,13 +13,13 @@
   },
   "home": {
     "meta": {
-      "title": "Jujutsu School Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete Jujutsu School guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Jujutsu School Anomaly Wiki — Codes, Visitor Rules, Endings & Guides",
+      "description": "Complete Jujutsu School Anomaly guide on Roblox with night shift walkthroughs, anomaly detection tips, visitor inspection rules, and true endings."
     },
     "hero": {
       "eyebrow": "Anime Horror Inspection Survival",
-      "title": "Jujutsu School Wiki",
-      "description": "Jujutsu School is a Roblox horror survival experience where players inspect visitors at Jujutsu High, verify IDs, manage the cursed barrier, and survive mysterious anomalies.",
+      "title": "Jujutsu School Anomaly Wiki",
+      "description": "Jujutsu School Anomaly is a Roblox horror survival experience where players inspect visitors at Jujutsu High, verify IDs, manage the cursed barrier, and survive mysterious anomalies.",
       "stats": [
         "575K+ Total Visits",
         "24 Max Players",
@@ -38,106 +38,88 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your Jujutsu School Journey",
+      "title": "Your Jujutsu School Anomaly Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Inspect incoming visitors at Tokyo Jujutsu High, check IDs against school registry logs, and master early gatehouse survival."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Visitor Rules & Anomalies",
+          "description": "Scrutinize facial features, uniform emblems, and permit stamps to spot deceptive curses masquerading as students."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Cursed Barrier Defense",
+          "description": "Maintain gatehouse power, monitor environmental changes, and prevent cursed entity breaches during late-night shifts."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Jujutsu School."
+          "title": "Boss & True Ending",
+          "description": "Counter high-grade anomaly mimicry in the final shift, make critical choices, and secure the true ending."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Anomaly Checklist",
+        "Visitor Rules",
+        "Final Boss"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Master early shifts and core inspection routines at Tokyo Jujutsu High.",
+          "href": "/guide/jujutsu-school-anomaly-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Codes & Rewards",
+          "description": "Latest working redemption codes, battery boosts, and cosmetics.",
+          "href": "/community/jujutsu-school-anomaly-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Mechanics",
+          "title": "Anomaly Detection",
+          "description": "Detailed checklist of facial tells, ID flaws, and forged stamps.",
+          "href": "/mechanics/jujutsu-school-anomaly-anomalies"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Walkthrough",
+          "title": "Final Boss Guide",
+          "description": "Survive the final shift confrontation against the mastermind.",
+          "href": "/walkthrough/jujutsu-school-anomaly-final-boss"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Characters",
+          "title": "Entity Directory",
+          "description": "Profiles and behaviors of all sorcerers, shapeshifters, and curses.",
+          "href": "/characters/jujutsu-school-anomaly-characters"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Walkthrough",
+          "title": "True Ending Guide",
+          "description": "Complete steps to uncover secret documents and unlock the true ending.",
+          "href": "/guide/jujutsu-school-anomaly-ending-guide"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is Jujutsu School?",
+      "title": "What is Jujutsu School Anomaly?",
       "paragraphs": [
-        "Jujutsu School is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Jujutsu School Anomaly is a suspenseful psychological horror inspection game on Roblox set within the supernatural halls of Tokyo Jujutsu High. Taking on the graveyard shift at the school perimeter, your mission is to verify visitor identification cards, validate official permits, and preserve the defensive cursed barrier protecting students and staff from invading curses.",
+        "Drawing inspiration from anomaly observation classics like The Exit 8, the game challenges players across escalating night shifts to detect subtle distortions, unmask shape-shifting impostors, and confront high-grade cursed entities. Every detail matters: mistaking an anomaly for a genuine student or overlooking a forged seal will trigger catastrophic resets."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Centurion Kitchen"
         },
         {
           "label": "Platform",
@@ -145,158 +127,232 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Horror Inspection"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Total Visits",
+          "value": "575K+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "User Rating",
+          "value": "95%"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Max Players",
+          "value": "24"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Explore Game Guides"
     },
     "explore": {
-      "title": "Explore Jujutsu School Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Jujutsu School Anomaly Wiki",
+      "description": "Everything you need to survive Tokyo Jujutsu High night shifts, identify supernatural anomalies, redeem active codes, and defeat the final boss.",
       "modules": [
         {
           "order": 1,
-          "name": "Jujutsu School Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/jujutsu-school-codes",
-          "displayType": "code-box",
+          "name": "Jujutsu School Anomaly Guide",
+          "description": "A complete beginner guide covering the core gameplay loop, visitor inspection rules, cursed barrier system, and survival objectives. This module helps new players understand how to start a night shift and avoid common mistakes.",
+          "href": "/guide/jujutsu-school-anomaly-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Take position at the gatehouse desk and check the active visitor registry."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Examine ID cards, birthdates, and official Jujutsu High permit stamps."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Verify facial features and body symmetry under the observation lamp."
+            },
+            {
+              "label": "4",
+              "detail": "Stamp approval for verified visitors or trigger the barrier alarm on impostors."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/jujutsu-school-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Jujutsu School Anomaly Codes",
+          "description": "A codes section for tracking active rewards, free items, and future code releases if the developer adds a redemption system. It can also include a clear status area when no working codes are available.",
+          "href": "/community/jujutsu-school-anomaly-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "ANOMALY",
+              "detail": "Redeem for flashlight battery boost and bonus talisman",
+              "badge": "Active"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "SHIFTCLEAR",
+              "detail": "Redeem for gatehouse cosmetic charm and sanity buff",
+              "badge": "Active"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "JUJUTSU2026",
+              "detail": "Redeem for 250 bonus barrier energy points",
+              "badge": "Active"
+            },
+            {
+              "label": "CURSEDNIGHT",
+              "detail": "Redeem for exclusive security guard uniform skin",
+              "badge": "Active"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/jujutsu-school-tier-list",
-          "displayType": "tier-grid",
+          "name": "Jujutsu School Anomaly Visitor Guide",
+          "description": "A detailed reference for checking visitors, reading IDs, using stamps, and deciding when to allow or reject entry. This targets players searching for visitor rules and correct inspection methods.",
+          "href": "/mechanics/jujutsu-school-anomaly-anomalies",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "E",
+              "detail": "Interact with visitor documents, ID cards, and desk permit stamps",
+              "badge": "Inspect"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "F",
+              "detail": "Toggle flashlight to illuminate dark hallways and facial distortions",
+              "badge": "Flashlight"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "SHIFT",
+              "detail": "Sprint to evade manifested curses during barrier alarms",
+              "badge": "Sprint"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "SPACE",
+              "detail": "Jump over cursed puddles and debris during hallway patrols",
+              "badge": "Movement"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/jujutsu-school-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Jujutsu School Anomaly Ending Guide",
+          "description": "A walkthrough module explaining the story progression, major encounters, and possible ending routes. It is designed for players searching how to complete the game and reach the finale.",
+          "href": "/guide/jujutsu-school-anomaly-ending-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Clear Shifts 1 through 4 with zero anomaly detection errors to maintain sanity."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Inspect hidden room clues in Shift 5 to reveal the traitor's ritual symbols."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Survive the corridor chase in Shift 8 without depleting barrier reserves."
+            },
+            {
+              "label": "4",
+              "detail": "Confront the impostor mastermind to achieve the True Exorcist Ending."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/jujutsu-school-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Jujutsu School Anomaly Characters Guide",
+          "description": "A character-focused module covering important visitors, Jujutsu High figures, and story-related appearances. It helps users searching character names and lore details.",
+          "href": "/characters/jujutsu-school-anomaly-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Sorcerer",
+              "detail": "Registered Jujutsu High students and staff requesting standard campus entry."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Shifter",
+              "detail": "Cursed spirits mimicking sorcerer uniforms with subtle physical irregularities."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Auxiliary",
+              "detail": "Campus window managers responsible for barrier talisman deliveries."
+            },
+            {
+              "label": "Distortion",
+              "detail": "Aggressive paranormal aberrations wandering corridors during late shifts."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/jujutsu-school-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Jujutsu School Anomaly Boss Guide",
+          "description": "A combat and encounter guide focused on major threats, including preparation tips and recommended actions during boss events. This targets searches related to final fights and difficult encounters.",
+          "href": "/walkthrough/jujutsu-school-anomaly-final-boss",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Suguru Mimic — Mastermind entity requiring flawless counter-measures and barrier seals"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Cursed Alpha — Aggressive manifestation with high speed and corridor-blocking shockwaves"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Corrupted Sentry — Distorted security guard entity capable of disabling gatehouse lights"
+            },
+            {
+              "label": "C",
+              "detail": "Stray Phantoms — Low-tier supernatural noise designed to distract from real anomalies"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Jujutsu School Anomaly Update Guide",
+          "description": "A timeline section for tracking new content, balance changes, developer announcements, and alpha updates. It provides a place for returning players to check the latest changes.",
+          "href": "/community/jujutsu-school-anomaly-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Alpha",
+              "detail": "Initial release featuring Shifts 1 through 8 and gatehouse inspection mechanics."
+            },
+            {
+              "label": "Shifts",
+              "detail": "Expanded shift sequences, harder anomaly variants, and audio cue balancing."
+            },
+            {
+              "label": "Boss",
+              "detail": "Introduced the climax boss encounter and branching true ending requirements."
+            },
+            {
+              "label": "Patches",
+              "detail": "Ongoing bug fixes, collision polish, and enhanced lighting performance."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Jujutsu School Anomaly Gameplay Tips",
+          "description": "A collection of advanced tips covering inspection efficiency, avoiding anomaly mistakes, and improving survival consistency. This module supports long-tail searches from players looking for strategies.",
+          "href": "/guide/jujutsu-school-anomaly-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lighting",
+              "detail": "Conserve flashlight battery and prioritize desk lighting during close inspections."
+            },
+            {
+              "label": "Barriers",
+              "detail": "Keep cursed energy reserves above 40 percent to withstand surprise intrusions."
+            },
+            {
+              "label": "Documents",
+              "detail": "Cross-check date stamps and watermarks before stamping visitor credentials."
+            },
+            {
+              "label": "Audio",
+              "detail": "Listen carefully for abnormal breathing or reverse footsteps outside the gate."
             }
           ]
         }
@@ -304,34 +360,38 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Jujutsu School.",
+      "description": "Essential questions and answers about surviving and progressing in Jujutsu School Anomaly.",
       "items": [
         {
-          "question": "What is Jujutsu School?",
-          "answer": "Jujutsu School is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Jujutsu School Anomaly on Roblox?",
+          "answer": "Jujutsu School Anomaly is a psychological horror inspection survival game on Roblox where players work night shifts inspecting visitors and protecting the cursed barrier at Jujutsu High."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do you detect anomalies in Jujutsu School Anomaly?",
+          "answer": "In Jujutsu School Anomaly, you detect anomalies by cross-referencing visitor identification cards, checking expiration dates, verifying official stamps, and watching for unnatural facial expressions or physical distortions."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How many shifts are there in Jujutsu School Anomaly?",
+          "answer": "Jujutsu School Anomaly features sequential night shifts (Shifts 1 through 8) that challenge your observation skills with increasingly deceptive supernatural entities."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Are there working promo codes for Jujutsu School Anomaly?",
+          "answer": "Active codes for Jujutsu School Anomaly provide free in-game boosts, cosmetics, and flashlight battery refills; check our dedicated codes section regularly for new developer drops."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do you unlock the true ending in Jujutsu School Anomaly?",
+          "answer": "To achieve the true ending in Jujutsu School Anomaly, you must complete all shift inspections without error, gather secret documents, and successfully repel the final boss encounter."
+        },
+        {
+          "question": "What happens if you approve an anomaly in Jujutsu School Anomaly?",
+          "answer": "Approving an impostor in Jujutsu School Anomaly weakens the protective school barrier, causes immediate power surges, and can trigger a fatal jumpscare that resets your shift progress."
         }
       ]
     },
     "finalCta": {
-      "title": "Ready to Master Jujutsu School?",
-      "description": "From visitor inspection protocols to cursed barrier defense, our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
+      "title": "Ready to Master Jujutsu School Anomaly?",
+      "description": "From gatehouse visitor inspection rules to cursed barrier defense and boss tactics, explore our complete survival wiki.",
+      "primary": "Read Beginner Guide",
       "secondary": "Play on Roblox"
     }
   },
