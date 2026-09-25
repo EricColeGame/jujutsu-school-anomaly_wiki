@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "walkthrough": "Walkthrough",
+    "shifts": "Shifts",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "controls": "Controls",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -395,7 +402,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -426,10 +432,38 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Official Roblox Page",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Anomaly Guide",
-    "bossGuides": "Ending Guide",
-    "buildGuide": "Visitor Inspection",
+    "raceGuides": "Shifts Guide",
+    "bossGuides": "Walkthrough",
+    "buildGuide": "Mechanics",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Jujutsu School Anomaly Guides",
+    "overviewDescription": "Comprehensive beginner guides, progression walkthroughs, and survival tips for Jujutsu School Anomaly on Roblox."
+  },
+  "walkthrough": {
+    "overviewTitle": "Jujutsu School Anomaly Walkthrough",
+    "overviewDescription": "Step-by-step night shift progression, final boss strategies, and complete true ending guides."
+  },
+  "shifts": {
+    "overviewTitle": "Jujutsu School Anomaly Shifts",
+    "overviewDescription": "Detailed shift breakdowns from Shift 1 to Shift 12, covering visitor inspection criteria and barrier maintenance."
+  },
+  "mechanics": {
+    "overviewTitle": "Jujutsu School Anomaly Mechanics",
+    "overviewDescription": "Deep dive into anomaly detection, barrier frequency calibration, flashlight management, and survival systems."
+  },
+  "characters": {
+    "overviewTitle": "Jujutsu School Anomaly Characters",
+    "overviewDescription": "Guide to jujutsu students, faculty NPCs, dangerous cursed entities, and anomaly variants."
+  },
+  "controls": {
+    "overviewTitle": "Jujutsu School Anomaly Controls",
+    "overviewDescription": "Keybinds and control guides for PC keyboard/mouse, mobile touch, and console controllers."
+  },
+  "community": {
+    "overviewTitle": "Jujutsu School Anomaly Community",
+    "overviewDescription": "Official Discord channels, community discussion hubs, developer update logs, and promo codes."
   }
 }
