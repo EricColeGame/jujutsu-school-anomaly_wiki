@@ -1,1 +1,469 @@
-{}
+{
+  "site": {
+    "name": "Jujutsu School Wiki",
+    "shortName": "Jujutsu School",
+    "tagline": "異変ガイド・エンディング攻略・Tips",
+    "description": "Jujutsu School Wikiは、Robloxのホラー検証ゲーム「Jujutsu School Anomaly」の総合攻略情報（夜勤シフト手順、異変の判別方法、来訪者ルール、真エンディング条件）をお届けします。",
+    "legalNotice": "非公式ファンwikiです。Roblox Corporationおよび開発元とは一切関係ありません。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切替",
+    "guide": "Guide",
+    "walkthrough": "Walkthrough",
+    "shifts": "Shifts",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "controls": "Controls",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Jujutsu School Anomaly Wiki — コード・来訪者規則・エンディング・攻略ガイド",
+      "description": "Roblox『Jujutsu School Anomaly』の完全攻略wiki。夜勤シフト攻略、異変判別のコツ、来訪者検査ルール、真エンディング到達条件を網羅。"
+    },
+    "hero": {
+      "eyebrow": "アニメホラー検証サバイバル",
+      "title": "Jujutsu School Anomaly Wiki",
+      "description": "Jujutsu School Anomalyは、東京都立呪術高専を舞台にしたRobloxのホラー検証サバイバルゲームです。プレイヤーは夜勤警備員として来訪者を検査し、身分証を確認し、結界を維持しながら奇怪な異変から生き延びます。",
+      "stats": [
+        "総訪問数 57.5万+",
+        "最大 24 人",
+        "毎週アップデート",
+        "高評価率 95%"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "異変ガイド",
+      "tertiaryCta": "Robloxでプレイ",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "全ガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここからスタート",
+      "title": "Jujutsu School Anomaly 攻略の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "東京都立呪術高専の正門受付で来訪者を検査し、名簿と身分証を照合して初期シフトの生き残り術を習得します。"
+        },
+        {
+          "number": "2",
+          "title": "来訪者ルールと異変",
+          "description": "顔立ちの歪み、制服の校章、許可印の偽造を綿密にチェックし、生徒に偽装した狡猾な呪霊を見破ります。"
+        },
+        {
+          "number": "3",
+          "title": "呪力結界の防衛",
+          "description": "詰所の電力を管理し、環境変化を監視して、深夜のシフト中に発生する呪霊の結界侵入を阻止します。"
+        },
+        {
+          "number": "4",
+          "title": "ボスと真エンディング",
+          "description": "最終シフトで高位の異変擬態を退け、重大な選択を下して真の結末（True Ending）を解放します。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "注目・急上昇ガイド",
+      "quickLinks": [
+        "初心者ガイド",
+        "異変チェックリスト",
+        "来訪者ルール",
+        "最終ボス"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "呪術高専での初期シフト攻略と基本の検査手順を徹底解説。",
+          "href": "/guide/jujutsu-school-anomaly-beginner-guide"
+        },
+        {
+          "badge": "更新済み",
+          "title": "コード＆報酬",
+          "description": "最新の引き換えコード、懐中電灯バッテリー強化、限定コスメ情報。",
+          "href": "/community/jujutsu-school-anomaly-codes"
+        },
+        {
+          "badge": "システム",
+          "title": "異変の判別方法",
+          "description": "顔立ちの違和感、IDの不備、偽造スタンプの見分け方一覧。",
+          "href": "/mechanics/jujutsu-school-anomaly-anomalies"
+        },
+        {
+          "badge": "攻略手順",
+          "title": "最終ボス攻略",
+          "description": "最終シフトで黒幕との対決を生き延びる立ち回りと対策。",
+          "href": "/walkthrough/jujutsu-school-anomaly-final-boss"
+        },
+        {
+          "badge": "キャラクター",
+          "title": "登場キャラクター・エンティティ",
+          "description": "呪術師、擬態者、出現する呪霊のプロフィールと行動パターン。",
+          "href": "/characters/jujutsu-school-anomaly-characters"
+        },
+        {
+          "badge": "攻略手順",
+          "title": "真エンディング攻略",
+          "description": "極秘資料を回収し、真エンディングをアンロックするための完全手順。",
+          "href": "/guide/jujutsu-school-anomaly-ending-guide"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Jujutsu School Anomaly とは？",
+      "paragraphs": [
+        "Jujutsu School Anomalyは、東京都立呪術高専の超常的な敷地を舞台にした、スリル満点のRobloxサイコロジカルホラー検証ゲームです。プレイヤーは夜間の外周警備・受付を担当し、来訪者の身分証や公式許可証を確認しながら、生徒や教職員を守る防護結界を維持します。",
+        "『8番出口』などの異変観測ホラーから着想を得た本作では、シフトを重ねるごとに難易度が上昇し、微細な異変の察知、擬態した呪霊の見極め、高位エンティティへの対処が求められます。些細な見落としや偽造印の看過が即座に結界崩壊を招くため、極限の集中力が必要です。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Centurion Kitchen"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "ジャンル",
+          "value": "ホラー検証"
+        },
+        {
+          "label": "総訪問数",
+          "value": "57.5万+"
+        },
+        {
+          "label": "高評価率",
+          "value": "95%"
+        },
+        {
+          "label": "最大プレイ人数",
+          "value": "24人"
+        }
+      ],
+      "cta": "ゲーム攻略ガイドを見る"
+    },
+    "explore": {
+      "title": "Jujutsu School Anomaly Wiki を探索",
+      "description": "夜勤シフトの生還法、超常異変の見分け方、有効なプロモコード、最終ボスの撃破まで、攻略に必要な全情報を網羅しています。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Jujutsu School Anomaly 初心者ガイド",
+          "description": "基本のゲームサイクル、来訪者検査規則、呪力結界システム、生還目標を解説した総合初心者ガイドです。新任警備員がシフト開始直後に陥りがちなミスを防止します。",
+          "href": "/guide/jujutsu-school-anomaly-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "警備室のデスクに着席し、当日の有効来訪者名簿を確認します。"
+            },
+            {
+              "label": "2",
+              "detail": "身分証明書、生年月日、呪術高専の公式許可スタンプを照合します。"
+            },
+            {
+              "label": "3",
+              "detail": "観察用ライトの下で顔立ちの特徴や左右対称性を確認します。"
+            },
+            {
+              "label": "4",
+              "detail": "正規の来訪者には承認印を押し、擬態者には結界警報を発令します。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Jujutsu School Anomaly コード",
+          "description": "ゲーム内で利用可能な最新の報酬コード、無料アイテム、新コード情報を掲載。コードが未実装または期限切れの場合の状況も随時更新します。",
+          "href": "/community/jujutsu-school-anomaly-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "ANOMALY",
+              "detail": "懐中電灯バッテリー強化とおまもりボーナスを獲得",
+              "badge": "有効"
+            },
+            {
+              "label": "SHIFTCLEAR",
+              "detail": "詰所用の装飾チャームと正気度バフを獲得",
+              "badge": "有効"
+            },
+            {
+              "label": "JUJUTSU2026",
+              "detail": "結界呪力エネルギー250ポイントを獲得",
+              "badge": "有効"
+            },
+            {
+              "label": "CURSEDNIGHT",
+              "detail": "限定の警備員制服スキンを獲得",
+              "badge": "有効"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Jujutsu School Anomaly 来訪者ガイド",
+          "description": "来訪者検査、身分証の読み方、スタンプの押し方、入場許可または拒否の判断基準に関する詳細リファレンスです。",
+          "href": "/guide/jujutsu-school-anomaly-visitors",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "E",
+              "detail": "来訪者の書類、身分証、デスクの承認スタンプを操作",
+              "badge": "検査"
+            },
+            {
+              "label": "F",
+              "detail": "懐中電灯を点灯して薄暗い廊下や顔の歪みを照らす",
+              "badge": "ライト"
+            },
+            {
+              "label": "SHIFT",
+              "detail": "警報発令時にダッシュして出現した呪霊から逃走",
+              "badge": "ダッシュ"
+            },
+            {
+              "label": "SPACE",
+              "detail": "廊下巡回中に呪われた水たまりや瓦礫をジャンプで回避",
+              "badge": "移動"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Jujutsu School Anomaly エンディング攻略",
+          "description": "ストーリーの進行、主要なイベント遭遇、到達可能な分岐エンディングを解説したウォークスルーモジュールです。",
+          "href": "/guide/jujutsu-school-anomaly-ending-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "正気度を維持するため、異変検出ミス0でシフト1から4をクリアします。"
+            },
+            {
+              "label": "2",
+              "detail": "シフト5で隠し部屋の手がかりを調べ、裏切り者の儀式紋様を暴きます。"
+            },
+            {
+              "label": "3",
+              "detail": "結界エネルギーを切らさずにシフト8の廊下追走劇を生き延びます。"
+            },
+            {
+              "label": "4",
+              "detail": "擬態の黒幕と対決し、真の呪術祓除エンディング（True Ending）を達成します。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Jujutsu School Anomaly キャラクター図鑑",
+          "description": "主要な来訪者、呪術高専の関係者、ストーリー上の重要エンティティを網羅したキャラクター解説モジュールです。",
+          "href": "/characters/jujutsu-school-anomaly-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "呪術師",
+              "detail": "通常の校内立ち入りを申請する正規の呪術高専生徒および教職員。"
+            },
+            {
+              "label": "擬態者",
+              "detail": "制服を模倣するものの、身体の細部に不自然な歪みを持つ呪霊。"
+            },
+            {
+              "label": "補助監督",
+              "detail": "結界符やおまもりの補充を担当する高専の運営管理スタッフ。"
+            },
+            {
+              "label": "歪異体",
+              "detail": "深夜シフトの廊下を徘徊する好戦的かつ危険な超常存在。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Jujutsu School Anomaly ボス攻略",
+          "description": "主要な脅威エンティティとの対決に焦点を当てた戦闘・遭遇ガイド。事前準備と推奨行動を解説します。",
+          "href": "/walkthrough/jujutsu-school-anomaly-final-boss",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "擬態スグル — 完璧な対抗手段と結界封印を要求する黒幕エンティティ"
+            },
+            {
+              "label": "A",
+              "detail": "呪縛アルファ — 高速移動と通路封鎖の衝撃波を繰り出す好戦的な脅威"
+            },
+            {
+              "label": "B",
+              "detail": "侵食ガード — 詰所の照明を無力化する能力を持つ変異警備員"
+            },
+            {
+              "label": "C",
+              "detail": "徘徊ファントム — 本物の異変から注意を逸らすために現れる低位の幻影"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Jujutsu School Anomaly 更新履歴",
+          "description": "新コンテンツ、バランス調整、開発者アナウンス、アルファアップデートを追跡するタイムラインセクションです。",
+          "href": "/community/jujutsu-school-anomaly-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Alpha",
+              "detail": "シフト1〜8および受付検査システムを実装した初期リリース。"
+            },
+            {
+              "label": "Shifts",
+              "detail": "シフトシーケンスの拡張、新種異変の追加、環境音のバランス調整。"
+            },
+            {
+              "label": "Boss",
+              "detail": "クライマックスとなるボス戦および分岐する真エンディング条件を追加。"
+            },
+            {
+              "label": "Patches",
+              "detail": "継続的な不具合修正、コリジョンの最適化、照明パフォーマンスの向上。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Jujutsu School Anomaly 攻略のコツ",
+          "description": "検査効率の向上、異変の見落とし防止、生還率を高めるための上級テクニック集です。",
+          "href": "/guide/jujutsu-school-anomaly-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "照明管理",
+              "detail": "懐中電灯の電池を節約し、手元の書類検査時はデスク照明を優先する。"
+            },
+            {
+              "label": "結界維持",
+              "detail": "不意の呪霊侵入に耐えるため、呪力エネルギーを常に40%以上に保つ。"
+            },
+            {
+              "label": "書類確認",
+              "detail": "承認スタンプを押す前に、日付印と透かし模様を必ず二重確認する。"
+            },
+            {
+              "label": "音の聞き分け",
+              "detail": "門の外から聞こえる異常な呼吸音や逆再生の足音に耳を澄ませる。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問 (FAQ)",
+      "description": "Jujutsu School Anomalyでの生き残りと進行に関する重要な質問と回答です。",
+      "items": [
+        {
+          "question": "RobloxのJujutsu School Anomalyとはどんなゲームですか？",
+          "answer": "Jujutsu School Anomalyは、プレイヤーが夜勤警備員として来訪者を検査し、呪術高専の防護結界を守りながら生き残るサイコロジカルホラー検証ゲームです。"
+        },
+        {
+          "question": "Jujutsu School Anomalyで異変を見分ける方法は？",
+          "answer": "来訪者の身分証明書の記載内容、有効期限、公式スタンプの有無を照合し、不自然な表情や身体の歪みがないかを観察することで異変を見分けることができます。"
+        },
+        {
+          "question": "Jujutsu School Anomalyのシフト（夜勤）はいくつありますか？",
+          "answer": "本作にはシフト1からシフト8までの連続した夜勤シフトがあり、進行するにつれてより狡猾な超常現象や擬態者が現れるようになります。"
+        },
+        {
+          "question": "Jujutsu School Anomalyで使えるプロモコードはありますか？",
+          "answer": "有効なコードを入力することで、ゲーム内ブースト、限定コスメ、懐中電灯バッテリーなどを無料で獲得できます。当Wikiのコード一覧を定期的にご確認ください。"
+        },
+        {
+          "question": "Jujutsu School Anomalyで真エンディングを迎えるには？",
+          "answer": "全シフトの検査をノーミスで完遂し、隠された機密文書をすべて回収した上で、最終ボス戦を撃退することで真エンディング（True Ending）に到達できます。"
+        },
+        {
+          "question": "異変（擬態者）を誤って通過させるとどうなりますか？",
+          "answer": "偽装した呪霊を承認してしまうと、学校の防護結界が急激に弱まり、電源喪失や致命的なジャンプスケアが発生してシフトの最初からやり直しになります。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Jujutsu School Anomaly を極める準備はできましたか？",
+      "description": "受付での来訪者検査から結界防衛、ボス戦対策まで、完全攻略Wikiをぜひご活用ください。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Robloxでプレイ"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki ナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日",
+    "viewAllCodes": "コードをすべて見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連トピック",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "現在利用可能なガイドはありません。後ほどご確認ください。"
+  },
+  "footer": {
+    "aboutTitle": "Jujutsu School Wiki",
+    "about": "Jujutsu School Wikiは、Robloxのホラー検証サバイバル体験『Jujutsu School Anomaly』の独立系ファン作成攻略リソースです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド一覧",
+    "legal": "法的情報",
+    "copyright": "2026 Jujutsu School Wiki. 非公式ファンサイト。",
+    "description": "Robloxアニメホラー検証サバイバルの攻略ガイド・異変対策・最新コード情報。",
+    "playGame": "Jujutsu School をプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "Roblox公式ページ",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "シフト攻略",
+    "bossGuides": "進行ウォークスルー",
+    "buildGuide": "システム・仕組み",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "guide": {
+    "overviewTitle": "Jujutsu School Anomaly 攻略ガイド一覧",
+    "overviewDescription": "来訪者検査、結界防衛、エンディング到達手順など、初心者から上級者までの包括的な攻略ガイド。"
+  },
+  "walkthrough": {
+    "overviewTitle": "Jujutsu School Anomaly 進行ウォークスルー",
+    "overviewDescription": "各夜勤シフトの詳細な攻略手順、注意すべき異変、最終ボスの撃破方法。"
+  },
+  "shifts": {
+    "overviewTitle": "Jujutsu School Anomaly シフト攻略一覧",
+    "overviewDescription": "シフト1から最終シフトまでの各シフトの詳細な特徴、クリア目標、推奨手順。"
+  },
+  "mechanics": {
+    "overviewTitle": "Jujutsu School Anomaly システム・仕組み",
+    "overviewDescription": "異変の判別基準、書類検査の仕様、正気度システム、結界呪力管理の徹底解説。"
+  },
+  "characters": {
+    "overviewTitle": "Jujutsu School Anomaly 登場キャラクター",
+    "overviewDescription": "呪術師の生徒、教職員、擬態する呪霊、廊下を徘徊する超常存在の紹介。"
+  },
+  "controls": {
+    "overviewTitle": "Jujutsu School Anomaly 操作方法ガイド",
+    "overviewDescription": "キーバインド一覧と、来訪者検査や探索を円滑に進めるための操作ガイド。"
+  },
+  "community": {
+    "overviewTitle": "Jujutsu School Anomaly コミュニティ＆コード",
+    "overviewDescription": "公式Discordリンク、最新プロモコード、アップデート履歴、プレイヤー交流。"
+  }
+}
